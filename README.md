@@ -31,6 +31,8 @@ This project is a prototype of a **train shunting safety system** that integrate
 ---
 
 ## 📁 Project Structure
+
+```
 railway-shunting-safety/
 ├── README.md                           # Project documentation
 ├── recognition.py                      # Raspberry Pi + AI Camera + Servo main code
@@ -40,10 +42,11 @@ railway-shunting-safety/
 ├── imx500-models-backup/
 │   └── imx500_network_yolov8n_pp.rpk  # YOLOv8 model for AI camera
 ├── images/
-    ├── demo.gif                       # Demo video/GIF
-    └── A_block_diagram.png            # System block diagram
+    ├── dp1.gif                       # Demo GIF
+    └── dp.png                        # System block diagram
 
-------
+```
+---
 
 ## 🔌 Circuit Connections
 
