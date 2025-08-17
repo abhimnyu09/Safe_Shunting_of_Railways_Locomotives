@@ -75,7 +75,7 @@ This project is a prototype of a **train shunting safety system** that integrate
 
 ## 🖼️ Block Diagram
 
-![Block Diagram](A_block_diagram.png)
+![Block Diagram](images/dp.png)
 
 *(Ensure you rename your uploaded diagram file to `A_block_diagram.png` and keep it in the repo root or `assets/` folder.)*
 
