@@ -36,7 +36,6 @@ This project is a prototype of a **train shunting safety system** that integrate
 railway-shunting-safety/
 ├── README.md                           # Project documentation
 ├── recognition.py                      # Raspberry Pi + AI Camera + Servo main code
-├── servo_control.py                   # Optional helper for servo control
 ├── arduino_code/            
 │   └── bogie_control.ino              # Arduino code (motor, LCD, ultrasonic, serial)
 ├── imx500-models-backup/
