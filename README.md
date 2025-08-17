@@ -117,17 +117,6 @@ This project is a prototype of a **train shunting safety system** that integrate
 
 ---
 
-## 👨‍💻 Author
-
-**Abhimanyu Sharma**  
-2nd-year Electrical Engineering Student
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
