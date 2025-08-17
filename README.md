@@ -113,7 +113,7 @@ This project is a prototype of a **train shunting safety system** that integrate
 
 ## 📽️ Demo
 
-*(Add demo video link or GIF here once available.)*
+![Demo Video](images/dp1.mov)
 
 ---
 
